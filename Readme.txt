@@ -1,5 +1,5 @@
 Cho 1 file data labels.json. 
-bao g?m kho?ng 10000 d?a ch?.
-s? l� file labels.json theo y�u c?u.
- xu?t ra file output.json.
-th?i h?n 1 tu?n. 
+toàn bộ file chứa khoảng hơn 10000 địa chỉ
+sử lý file labels.json theo yêu cầu.
+ xuất ra file output.json.
+thời gian 1 tuần. 
